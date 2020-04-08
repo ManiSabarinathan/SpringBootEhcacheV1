@@ -1,4 +1,4 @@
-This is a sample Spring Boot application for Ehcache
+Spring Boot application for Ehcache
 
 
 application.properties:
